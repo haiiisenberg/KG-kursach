@@ -1,0 +1,7 @@
+﻿  Render.cpp
+C:\Users\kmago\OneDrive\Рабочий стол\grafika_lab2-master\grafika_lab2-master\OpenGLrememberProj\Render.cpp(13,1): warning C4005: PI: изменение макроопределения
+C:\Users\kmago\OneDrive\Рабочий стол\grafika_lab2-master\grafika_lab2-master\OpenGLrememberProj\angle.h(5): message : см. предыдущее определение "PI"
+C:\Users\kmago\OneDrive\Рабочий стол\grafika_lab2-master\grafika_lab2-master\OpenGLrememberProj\Render.cpp(111,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\kmago\OneDrive\Рабочий стол\grafika_lab2-master\grafika_lab2-master\OpenGLrememberProj\Render.cpp(111,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\kmago\OneDrive\Рабочий стол\grafika_lab2-master\grafika_lab2-master\OpenGLrememberProj\Render.cpp(111,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\kmago\OneDrive\Рабочий стол\grafika_lab2-master\grafika_lab2-master\Debug\OpenGLrememberProj.exe
